@@ -1,0 +1,19 @@
+##### para compilar na pasta local rode 
+sh build.sh  
+(edite o caminho correto no arquivo build.sh)
+
+#### para que o livro apareça na pagina do github no repositório DO LIVRO, o conteudo da pasta _build/html gerado deve ir pra a branch gh-pages
+
+há várias maneiras de fazer isso, eu estava fazendo forçadamente mas tem um jeito melhor:
+
+
+vá no diretorio principal do livro e, no terminal digite:
+faça o build
+
+sh build.sh 
+
+depois coloque os html na branch da pagina:
+
+ghp-import -n -p -f _build/html
+
+Importante: a senha pedida do github tem que ser um token gerado

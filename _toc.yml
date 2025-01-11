@@ -1,0 +1,34 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+ 
+parts:
+- caption: Intro
+  numbered: true
+  chapters:
+  - file: 1_Introduction
+#  - file: chapters/classification 
+#  - file: chapters/clustering
+#  - file: chapters/decision-tree  
+  
+#  - caption: Ferramentas de Análise Preditiva 
+#    numbered: true
+#    chapters:
+#    - file: chapters/estatistica 
+ #   - file: chapters/ml_models
+
+#- caption: Part 2 
+#  numbered: true
+#  chapters:
+#  - file: chapters/dimensional reduction
+#  - file: chapters/reinforcement learning
+  
+#- caption: Final Part 
+#  chapters: 
+#  - file: bib  
+  
+  
+ # - caption: Bibliography  
+ #   - file: bib
