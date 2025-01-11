@@ -1,2 +1,2 @@
-jupyter-book build /home/lucas/GoogleDrive/LLM/LLM\ notebooks\ git
+jupyter-book build /home/lucas/Dropbox/ML_and_DS/statistics_ML/Statistics-for-Data-Science-and-Machine-Learning
 

@@ -5,10 +5,10 @@ format: jb-book
 root: intro
  
 parts:
-- caption: Intro
+- caption: Amostragem
   numbered: true
   chapters:
-  - file: 1_Introduction
+  - file: Secao_2-Amostragem
 #  - file: chapters/classification 
 #  - file: chapters/clustering
 #  - file: chapters/decision-tree  
