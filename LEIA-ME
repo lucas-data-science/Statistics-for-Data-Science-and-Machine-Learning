@@ -16,4 +16,4 @@ depois coloque os html na branch da pagina:
 
 ghp-import -n -p -f _build/html
 
-Importante: a senha pedida do github tem que ser um token gerado
+Importante: a senha pedida do github tem que ser um token gerado -> .github-token em Docs
